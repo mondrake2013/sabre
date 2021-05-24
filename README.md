@@ -1,2 +1,0 @@
-# sabre
-GitHub Pages
