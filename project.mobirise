@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "SABRE SISTEMAS - BASE DE CONHECIMENTOS",
-    "currentPage": "gestao.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -58,7 +58,7 @@
         "url": "https://fonts.googleapis.com/css?family=Roboto+Slab:100,200,300,400,500,600,700,800,900"
       }
     ],
-    "uniqCompNum": 116,
+    "uniqCompNum": 122,
     "versionPublish": "4.12.4",
     "screenshot": "screenshot.png",
     "imageResize": true,
@@ -2879,6 +2879,27 @@
           "_global": true,
           "_once": "footers",
           "_params": {}
+        },
+        {
+          "_params": {
+            "showFacebookLogin": true,
+            "showGoogleLogin": true,
+            "showTwitterLogin": true,
+            "showEmailLogin": true,
+            "showArticleAuthorName": true,
+            "showArticleAuthorImage": true,
+            "showArticleDate": true,
+            "panelColor": "#ccc",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgColor": "#fff"
+          },
+          "alias": "firebase-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "firebase-admin-block",
+          "_anchor": "firebase-admin-block-3d"
         }
       ]
     }
